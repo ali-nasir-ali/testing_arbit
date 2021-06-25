@@ -1,3 +1,6 @@
+# pip install --upgrade coinapi_rest_v1
+
+
 from coinapi_rest_v1.restapi import CoinAPIv1
 import datetime, sys
 
