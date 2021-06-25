@@ -1,3 +1,8 @@
+
+
+https://github.com/coinapi/coinapi-sdk/blob/master/data-api/python-rest/coinapi_rest_v1/examples.py
+
+
 # pip install --upgrade coinapi_rest_v1
 
 
