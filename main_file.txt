@@ -1,7 +1,7 @@
 
 https://docs.coinapi.io/?python#endpoints-3
 https://github.com/coinapi/coinapi-sdk/blob/master/data-api/python-rest/coinapi_rest_v1/examples.py
-
+https://realpython.com/python-requests/
 
 # pip install --upgrade coinapi_rest_v1
 
